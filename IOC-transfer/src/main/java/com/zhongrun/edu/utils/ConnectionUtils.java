@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.SQLException;
 
 /**
- * @author 应癫
+ * @author Jerry
  */
 public class ConnectionUtils {
 

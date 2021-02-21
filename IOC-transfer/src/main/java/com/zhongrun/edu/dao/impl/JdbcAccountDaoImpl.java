@@ -10,7 +10,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
 /**
- * @author 应癫
+ * @author Jerry
  */
 public class JdbcAccountDaoImpl implements AccountDao {
 

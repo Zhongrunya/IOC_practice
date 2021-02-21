@@ -11,7 +11,7 @@ import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 
 /**
- * @author 应癫
+ * @author Jerry
  *
  *
  * 代理对象工厂：生成代理对象的

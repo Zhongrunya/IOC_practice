@@ -7,7 +7,7 @@ import com.zhongrun.edu.utils.ConnectionUtils;
 import com.zhongrun.edu.utils.TransactionManager;
 
 /**
- * @author 应癫
+ * @author Jerry
  */
 public class TransferServiceImpl implements TransferService {
 

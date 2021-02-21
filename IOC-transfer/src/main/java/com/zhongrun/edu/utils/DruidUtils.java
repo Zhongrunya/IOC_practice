@@ -3,7 +3,7 @@ package com.zhongrun.edu.utils;
 import com.alibaba.druid.pool.DruidDataSource;
 
 /**
- * @author 应癫
+ * @author Jerry
  */
 public class DruidUtils {
 

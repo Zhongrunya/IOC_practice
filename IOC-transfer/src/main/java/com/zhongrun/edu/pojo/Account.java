@@ -1,7 +1,7 @@
 package com.zhongrun.edu.pojo;
 
 /**
- * @author 应癫
+ * @author Jerry
  */
 public class Account {
 

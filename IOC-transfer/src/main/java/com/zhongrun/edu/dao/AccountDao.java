@@ -3,7 +3,7 @@ package com.zhongrun.edu.dao;
 import com.zhongrun.edu.pojo.Account;
 
 /**
- * @author 应癫
+ * @author Jerry
  */
 public interface AccountDao {
 
